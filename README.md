@@ -1,6 +1,6 @@
 # helloworld
 
-This project utilizes HTML and CSS and was developed using Visual Studio Community and tested both traditionally and using SCRUM techniques. 
+This project utilizes HTML and CSS and was developed using Visual Studio Community and tested both traditionally and with SCRUM techniques. 
 
 Test documentation for my Hello World website:
 Traditional test case:
