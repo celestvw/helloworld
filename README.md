@@ -9,5 +9,6 @@ Traditional test case:
 3.	Click "Hello World!"
 Expected result: User is greeted by their first name
 Actual result: Passed
+
 User story:
 AS A user WHEN I enter my first name AND click "Hello World" THEN I am greeted by a message by my first name
