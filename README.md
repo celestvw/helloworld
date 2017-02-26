@@ -1,6 +1,6 @@
 # helloworld
 
-This project utilizes HTML and CSS and a little bit of JavaScript and was developed using Visual Studio Community, published using FTP (FileZilla), hosted on Azure and tested both traditionally and with SCRUM techniques. 
+This project utilizes HTML and CSS and a little bit of JavaScript and was developed using Visual Studio Community, published using FTP (FileZilla), hosted on Azure (http://celestevanwyk.azurewebsites.net) and tested both traditionally and with SCRUM techniques. 
 
 Test documentation for my Hello World website:
 
