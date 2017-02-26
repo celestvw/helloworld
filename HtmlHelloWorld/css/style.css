@@ -1,5 +1,5 @@
-﻿body
-{
-    color:aqua;
-
+﻿.myStyle {
+    font-family: Verdana;
+    font-weight: bold;
+    color: #0094ff;
 }
