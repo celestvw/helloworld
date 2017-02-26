@@ -13,4 +13,4 @@ Expected result: User is greeted by their first name
 Actual result: Passed
 
 User story:
-AS A user WHEN I click the "Click Me!" button AND enter my first name WHEN I click "OK" THEN I am greeted by a message by my first name
+AS A user WHEN I click the "Click Me!" button AND enter my first name AND WHEN I click "OK" THEN I am greeted by a message by my first name
